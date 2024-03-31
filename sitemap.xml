@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.astuten.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.astuten.com/</loc>
+</url>
+<url>
+<loc>https://www.astuten.com/faq/</loc>
+<lastmod>2024-03-31T18:24:52+13:00</lastmod>
+</url>
+<url>
+<loc>https://www.astuten.com/home/</loc>
+<lastmod>2024-03-31T18:01:23+13:00</lastmod>
+<image:image>
+<image:loc>https://www.astuten.com/media/posts/1/AstutenIPhone.png</image:loc>
+<image:title><![CDATA[Astuten in iPhone]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.astuten.com/media/posts/1/GooglePlay-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.astuten.com/media/posts/1/AppStore.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.astuten.com/media/posts/1/WebBrower.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
